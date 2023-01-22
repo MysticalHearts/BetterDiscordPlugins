@@ -2,8 +2,8 @@
  * @name AssignBadges
  * @version 1.0.22
  * @description Allows you to locally assign badges to users through the user context menu.
- * @author QWERT
- * @source https://github.com/QWERTxD/BetterDiscordPlugins/tree/main/AssignBadges
+ * @author MADDIE
+ * @source https://github.com/MysticalHearts/BetterDiscordPlugins/tree/development/AssignBadges
  * @updateUrl https://raw.githubusercontent.com/QWERTxD/BetterDiscordPlugins/main/AssignBadges/AssignBadges.plugin.js
  */
 /*@cc_on
@@ -35,9 +35,9 @@ const config = {
 		"version": "1.0.21",
 		"description": "Allows you to locally assign badges to users through the user context menu.",
 		"authors": [{
-			"name": "QWERT",
-			"discord_id": "678556376640913408",
-			"github_username": "QWERTxD"
+			"name": "MADDIE",
+			"discord_id": "1052183631604498432",
+			"github_username": "liamham9"
 		}],
 		"github": "https://github.com/QWERTxD/BetterDiscordPlugins/tree/main/AssignBadges",
 		"github_raw": "https://raw.githubusercontent.com/QWERTxD/BetterDiscordPlugins/main/AssignBadges/AssignBadges.plugin.js"

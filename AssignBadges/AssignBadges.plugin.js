@@ -37,7 +37,7 @@ const config = {
 		"authors": [{
 			"name": "MADDIE",
 			"discord_id": "1052183631604498432",
-			"github_username": "liamham9"
+			"github_username": "MysticalHearts
 		}],
 		"github": "https://github.com/MysticalHearts/BetterDiscordPlugins/tree/development/AssignBadges",
 		"github_raw": "https://raw.githubusercontent.com/MysticalHearts/BetterDiscordPlugins/development/AssignBadges/AssignBadges.plugin.js"

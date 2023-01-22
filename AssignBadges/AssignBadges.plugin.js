@@ -4,7 +4,7 @@
  * @description Allows you to locally assign badges to users through the user context menu.
  * @author MADDIE
  * @source https://github.com/MysticalHearts/BetterDiscordPlugins/tree/development/AssignBadges
- * @updateUrl https://raw.githubusercontent.com/QWERTxD/BetterDiscordPlugins/main/AssignBadges/AssignBadges.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/MysticalHearts/BetterDiscordPlugins/development/AssignBadges/AssignBadges.plugin.js
  */
 /*@cc_on
 @if (@_jscript)
@@ -40,7 +40,7 @@ const config = {
 			"github_username": "liamham9"
 		}],
 		"github": "https://github.com/QWERTxD/BetterDiscordPlugins/tree/main/AssignBadges",
-		"github_raw": "https://raw.githubusercontent.com/QWERTxD/BetterDiscordPlugins/main/AssignBadges/AssignBadges.plugin.js"
+		"github_raw": "https://raw.githubusercontent.com/MysticalHearts/BetterDiscordPlugins/development/AssignBadges/AssignBadges.plugin.js"
 	},
 	"build": {
 		"zlibrary": true,
